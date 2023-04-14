@@ -1,0 +1,183 @@
+#title
+{
+    background-color: #ff4c68;
+    color: #fff;  
+}
+h1
+{
+    font-family: "Montserrat-Black";
+    font-weight:900;
+    font-size: 3.5rem;
+    line-height: 1.3;
+}
+.container-fluid
+{
+    padding: 3% 15%;
+}
+body
+{
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+.navbar-brand
+{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight:200;
+}
+.navbar
+{
+    padding-bottom: 4.5rem;
+}
+.nav-item
+{
+    padding-left: 2.5rem;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+.download-button
+{
+    margin: 5% 3% 5% 0%;
+}
+.title-image
+{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    width: 19%;
+    margin-left: 100px;
+}
+.top-container {
+    padding: 3% 15%;
+    overflow: hidden;
+}
+#features
+{
+    padding: 7% 15%;
+    position: relative;
+    background-color: #fff;
+}
+.col
+{
+    text-align: center;
+    padding: 4%;
+}
+h3
+{
+    font-family: "Montserrat-Black";
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+p
+{
+    color: #8f8f8f;
+}
+.icon
+{
+    margin-bottom: 2rem;
+    color: #ef8172;
+}
+.icon:hover
+{
+    color: #ff4c68 ;
+}
+#testimonials
+{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+h2
+{
+    font-family: "Montserrat-Black";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 4rem;
+}
+.testimonial-image
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press
+{
+    background-color: #ef8172;    
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo
+{
+    width: 15%;
+    margin: 20px 30px 50px;
+}
+.carousel-item
+{
+    padding: 7% 15%;
+}
+#pricing
+{
+    padding: 80px;
+    text-align: center;
+}
+.price-col 
+{
+    padding: 3% 2%;
+}
+.card-header
+{
+    background-color: #F0F0F0;
+}
+.card-body
+{
+    padding: 0px;
+}
+.signup-btn
+{
+    margin: 0px 15px 15px 15px;
+}
+@media(max-width: 1028px)
+{
+    #title
+    {
+        text-align: center;
+    }
+    .title-image
+    {
+        position: static;
+        transform: rotate(0deg);
+        width: 50%;
+        margin-right: 120px;
+    }
+}
+#cta
+{
+    background-color: #ff4c68;
+    text-align: center;
+}
+.end
+{
+    font-family: "Montserrat-Black";
+    font-weight:900;
+    font-size: 2.5rem;
+    color: #fff;
+    padding-top: 50px;
+}
+.btn-end
+{
+    margin-top: 40px;
+    margin-bottom: 8%;
+}
+#footer
+{
+    text-align: center;
+}
+.end-logo
+{
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-top: 70px;
+}
